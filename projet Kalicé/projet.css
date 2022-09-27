@@ -1,0 +1,35 @@
+.formConnexion{
+    margin-top: 15%;
+    margin-left: 30%;
+    background-color: gray;
+    height: 300px;
+    width: 35%;
+}
+.elementConnexion{
+    margin-top: 10%;
+}
+.btnConnexion{
+    position: relative;
+    top: 30%;
+    width: 15%;
+    height: 23%;
+    border-radius: 15%;
+}
+.connexion{ 
+    background-color: darkslategray ;
+    color: white;
+}
+.aInscrire{
+    position: relative;
+    top: 30%;
+}
+body{
+    background-color: rgb(45 137 149)!important;
+}
+.p-4{
+    background-color: white;
+}
+.form{
+    display: contents;
+    width: 500px!important;
+}
